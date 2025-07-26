@@ -1,8 +1,5 @@
 public class p31 {
   public static void main(String[] args) {
-    /*
-     * Explanation: https://raw.org/puzzle/project-euler/problem-31/
-     */
     int target = 200;
     int[] coins = { 1, 2, 5, 10, 20, 50, 100, 200 };
     int[][] targets = new int[target + 1][coins.length];

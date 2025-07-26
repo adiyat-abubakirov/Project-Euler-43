@@ -1,8 +1,5 @@
 public class p34 {
   public static void main(String[] args) {
-    /*
-     * Upper bound explanation: https://raw.org/puzzle/project-euler/problem-34/
-     */
     int sum = 0;
     int limit = 4 * factorial(9);
     for (int i = 10; i <= limit; i++)

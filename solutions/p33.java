@@ -1,9 +1,5 @@
 public class p33 {
   public static void main(String[] args) {
-    /*
-     * Explanation: https://raw.org/puzzle/project-euler/problem-33/
-     * derive equations then code
-     */
     int numerator = 1;
     int denominator = 1;
     for (int i = 1; i < 10; i++) {
